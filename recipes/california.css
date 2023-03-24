@@ -3,3 +3,13 @@
     color: bisque;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.headline {
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
